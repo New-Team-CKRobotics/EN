@@ -1,0 +1,18 @@
+{
+    "name": "newteam/en",
+    "description": "Engineering Notebook",
+    "type": "project",
+    "license": "Mozilla Public License Version 2.0",
+    "authors": [
+        {
+            "name": "William Wang",
+            "email": "dhdjwjy@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EN\\": "public/"
+        }
+    },
+}
